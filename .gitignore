@@ -1,0 +1,6 @@
+.idea/
+.DS_Store
+UPC.VII.ConcursoIncentivosInvestigacion_Carlos_Almenara_Experimental_CronogramaPresupuesto.pdf
+.ipynb_checkpoints
+dask-worker-space
+data/
